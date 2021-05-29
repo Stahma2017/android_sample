@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BtnStyle" parent="Widget.AppCompat.Button">
+        <item name="android:textAppearance">@style/BtnTextAppearance</item>
+        <item name="android:background">@drawable/slc_btn</item>
+    </style>
+
+    <style name="BtnTextAppearance" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+</resources>
